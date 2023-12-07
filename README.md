@@ -4,9 +4,9 @@ Here's a few things I have worked on in the past few years:
 
 ## Unreleased Cart Game
 
-A game I worked on for a few months that didn't end up getting released. Features a customizable cart system with a shop, obstacles and abilities for your cart.
+A game I worked on for a few months that didn't end up getting released. Features a customizable cart system with a shop, collectibles, obstacles and abilities for your cart.
 
-![](files/cart.png)
+![Screenie of the game](files/cart.png)
 
 ## Path Plugin
 
@@ -28,6 +28,13 @@ A little experiment I did to accurately check if an AABB is in view of the playe
 
 ![Gif of it in action](files/visible.gif)
 
+## Unreleased Backrooms Game
+
+A backrooms game I worked on that was never released. It featured a procedural generator for the map itself and a simple AI for the "entity". The generator is a simple stack-based maze generator. It generates the entire 4000x4000 studs map in less than a second.
+
+![Backrooms](files/backrooms1.jpg)
+![Dev picture of the maze gen](files/backrooms2.png)
+
 ## Triangle Terrain Generator
 
 A terrain generator using triangles I made a while back for a game I scrapped.
@@ -39,3 +46,11 @@ A terrain generator using triangles I made a while back for a game I scrapped.
 A very very simple car system I made to learn the basics. I used a more advanced version for the cart game project.
 
 ![The car in action](files/car.gif)
+
+## Cursed Candy Calamity
+
+This was a collab between Adventure Club! members. It is a collectathon platformer game in the style of Super Mario Odyssey. I worked on the collectible system, the dialog system, the save/load and parts of the UI. You can play the game [here](https://www.roblox.com/games/7199015832/Halloween-2021-Cursed-Candy-Calamity)
+
+![The dialog system](files/ccc1.png)
+
+![Spinning collectibles](files/ccc2.gif)
