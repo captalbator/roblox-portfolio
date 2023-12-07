@@ -4,7 +4,7 @@ Here's a few things I have worked on in the past few years:
 
 ## Unreleased Cart Game
 
-A game I worked on for a few months that didn't end up getting released. Features a customizable cart system with a shop, collectibles, obstacles and abilities for your cart.
+A cart game I worked on for a few months in 2023. Features a customizable cart system with a shop, collectibles, obstacles and abilities for your cart.
 
 ![Screenie of the game](files/cart.png)
 
@@ -35,12 +35,6 @@ A backrooms game I worked on that was never released. It featured a procedural g
 ![Backrooms](files/backrooms1.jpg)
 ![Dev picture of the maze gen](files/backrooms2.png)
 
-## Triangle Terrain Generator
-
-A terrain generator using triangles I made a while back for a game I scrapped.
-
-![Image of the result](files/terrain.png)
-
 ## Simple Car System
 
 A very very simple car system I made to learn the basics. I used a more advanced version for the cart game project.
@@ -54,3 +48,23 @@ This was a collab between Adventure Club! members. It is a collectathon platform
 ![The dialog system](files/ccc1.png)
 
 ![Spinning collectibles](files/ccc2.gif)
+
+## Malignitas
+
+This was a turn-based combat RPG that I shortly worked on in 2021. Development didn't go very far as I opted not to make a turn-based singleplayer game on a platform like Roblox.
+
+[Video 1](https://www.youtube.com/watch?v=WOSMDONHibE)
+
+[Video 2](https://www.youtube.com/watch?v=z6Q8Gslt_Fs)
+
+![Screencap of the video](files/malignitas.jpg)
+
+## Triangle Terrain Generator
+
+A terrain generator using triangles I made a while back for a game I scrapped.
+
+![Image of the result](files/terrain.png)
+
+## Combat system
+
+I made a combat system for a game in 2022 that was supported by server-side checks and supported complex hitboxes for the weapons. I am unfortunately not able to show footage of the combat system, so I put the entry all the way at the bottom.
