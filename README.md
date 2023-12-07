@@ -1,5 +1,28 @@
 # loudbytes' Roblox Portfolio
 
+Hello!
+
+I am loudbytes, a self-taught programmer from Canada.
+
+I am proficient in the following libraries:
+- Roact / react-lua
+- Fusion
+- ProfileService
+- BridgeNet2
+- Knit
+- RbxNet
+- Promise
+
+And I use the following tools:
+- Rojo
+- Wally
+- Selene
+- luau-lsp
+- StyLua
+- Git
+- GitHub
+- Lune
+
 Here's a few things I have worked on in the past few years:
 
 ## Unreleased Cart Game
