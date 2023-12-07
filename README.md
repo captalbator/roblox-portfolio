@@ -4,6 +4,11 @@ Hello!
 
 I am loudbytes, a self-taught programmer from Canada.
 
+I can use the following languages:
+- Lua & Luau
+- C & C++
+- JavaScript & TypeScript
+
 I am proficient in the following libraries:
 - Roact / react-lua
 - Fusion
